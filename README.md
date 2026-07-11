@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/go-ruby-erasure/brand/main/social/go-ruby-erasure.png" alt="go-ruby-erasure/erasure" width="720"></p>
+
 # erasure
 
 [![ci](https://github.com/go-ruby-erasure/erasure/actions/workflows/ci.yml/badge.svg)](https://github.com/go-ruby-erasure/erasure/actions/workflows/ci.yml)
