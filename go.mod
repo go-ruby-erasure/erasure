@@ -1,6 +1,6 @@
 module github.com/go-ruby-erasure/erasure
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/go-erasure/mojette v0.2.0
