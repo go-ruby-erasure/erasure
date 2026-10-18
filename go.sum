@@ -2,5 +2,9 @@ github.com/go-erasure/mojette v0.2.0 h1:rBOwG5ezK0sr7PoR/qQAUuT0sSC27aK8STdloJr1
 github.com/go-erasure/mojette v0.2.0/go.mod h1:usUFQmlvRBXPNVUIlDU4eElI4XvxaPxY3fwhLi3hkvA=
 github.com/go-erasure/reedsolomon v0.3.0 h1:A+qrLr3OdHOftL+EyoqrdUu1sFiCb23PDWxgvc9foxU=
 github.com/go-erasure/reedsolomon v0.3.0/go.mod h1:Tqwi8qBE7RYyG/sOOKCZpGCn7+gIGHlJ7A2CsjWQVZQ=
+github.com/go-erasure/reedsolomon v0.5.0 h1:i9dfjAi7rTRvE7xekv/oxeeVVwrpF/F+V+apfdwQCj8=
+github.com/go-erasure/reedsolomon v0.5.0/go.mod h1:bJapl2onP43NrNgETR9ainWYtsWnmEgLZZh8ErChkUU=
 golang.org/x/sys v0.47.0 h1:o7XGOvZQCADBQQ4Y7VNq2dRWQR7JmOUW8Kxx4ZsNgWs=
 golang.org/x/sys v0.47.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
+golang.org/x/sys v0.48.0 h1:bbX/i/6MgT9BVLM9RT1thmxL04yeTAhbEz4SyadbXoo=
+golang.org/x/sys v0.48.0/go.mod h1:hNLxWAXmnKAxqDtdwIYC4bM9oQPEecfsnNMuSxOs3og=
